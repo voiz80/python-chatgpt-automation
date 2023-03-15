@@ -7,7 +7,7 @@ set environment variable OPENAI_API_KEY before executing python-chatgpt script
 export OPENAI_API_KEY=your-key-here
 ```
 
-## Usage python3 python-chatgpt.py
+## Usage: python3 python-chatgpt.py
 ```
 Pick an promt option:
 1) Act as a Linux Terminal
